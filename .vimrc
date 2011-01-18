@@ -18,6 +18,9 @@ endif
 " This must be first, because it changes other options as a side effect.
 set nocompatible
 
+" Enable pathogen"
+call pathogen#runtime_append_all_bundles()
+
 " allow backspacing over everything in insert mode
 set backspace=indent,eol,start
 
