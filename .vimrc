@@ -101,3 +101,6 @@ endif
 let g:CommandTMaxHeight=10
 
 set wildignore+=*.beam
+
+" Use bash-style tab completion (default = full)
+set wildmode=longest,list
