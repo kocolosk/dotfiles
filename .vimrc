@@ -99,3 +99,5 @@ if !exists(":DiffOrig")
 endif
 
 let g:CommandTMaxHeight=10
+
+set wildignore+=*.beam
