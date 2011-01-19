@@ -7,3 +7,6 @@
 [submodule ".vim/bundle/vimerl"]
 	path = .vim/bundle/vimerl
 	url = git://github.com/oscarh/vimerl.git
+[submodule ".vim/bundle/ack"]
+	path = .vim/bundle/ack
+	url = git://github.com/mileszs/ack.vim.git
