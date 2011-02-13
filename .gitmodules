@@ -13,3 +13,6 @@
 [submodule ".vim/bundle/ColorSamplerPack"]
 	path = .vim/bundle/ColorSamplerPack
 	url = git://github.com/vim-scripts/Color-Sampler-Pack.git
+[submodule ".vim/bundle/vim-mac-classic-theme"]
+	path = .vim/bundle/vim-mac-classic-theme
+	url = git://github.com/kocolosk/vim-mac-classic-theme.git
