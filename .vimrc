@@ -104,3 +104,6 @@ set wildignore+=*.beam
 
 " Use bash-style tab completion (default = full)
 set wildmode=longest,list
+
+" Show some whitespace errors
+set list listchars=eol:¬,tab:»·,trail:·
