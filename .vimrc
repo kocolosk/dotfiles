@@ -105,5 +105,5 @@ set wildignore+=*.beam
 " Use bash-style tab completion (default = full)
 set wildmode=longest,list
 
-" Show some whitespace errors
-set list listchars=eol:¬,tab:»·,trail:·
+" Use the same symbols as TextMate for "Show Invisibles"
+set list listchars=tab:▸\ ,eol:¬
