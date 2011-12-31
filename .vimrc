@@ -104,3 +104,6 @@ set wildmode=longest,list
 set list listchars=tab:▸\ ,eol:¬
 
 set writebackup
+
+set background=dark
+colorscheme solarized
